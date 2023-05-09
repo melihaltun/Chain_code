@@ -11,7 +11,7 @@ There is also a test script to demonstrate a typical use case.
 
 ![image](https://user-images.githubusercontent.com/40482921/236975640-035b0ac0-f737-45d5-bd32-b69d1e4cb701.png)
 
-![image](https://user-images.githubusercontent.com/40482921/236975690-06a1cb7a-f98f-4685-a937-013f6813d948.png)
+![image](https://user-images.githubusercontent.com/40482921/236975923-692fd10a-5248-43aa-8700-68825cd688b4.png)
 
 
 % References:
