@@ -36,10 +36,10 @@ chCode = chCode-1;  % 0 to 7 instead of 1 to 8
 figure(2); 
 subplot(121); 
 histogram(chCode);
-title('Distribution shape of directions');
+title('Distribution of directions');
 subplot(122);
 imagesc(chMap);
-title('Shape of directions');
+title('Location of directed boundaries');
 
 
 function boundaryImg = getImgBoundary(bw_img) 
@@ -61,5 +61,3 @@ for i = 2:sz(1)+1
     end
 end
 end
-
-
