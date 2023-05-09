@@ -3,6 +3,8 @@ Chain code feature generation for image processing:
 
 Chain codes are used for finding directionality in shape boundaries. They are one of the most useful shape descriptors.
 
+By studying the segments with the same direction, length features for each direction can be extracted. Also by studying consecutive chain codes, direction changes, convex or concave structures can be found.
+
 This code implements an 8 connected chain code generator. 
 
 There is also a test script to demonstrate a typical use case.
