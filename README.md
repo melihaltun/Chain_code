@@ -14,6 +14,6 @@ There is also a test script to demonstrate a typical use case.
 ![image](https://user-images.githubusercontent.com/40482921/236975923-692fd10a-5248-43aa-8700-68825cd688b4.png)
 
 
-% References:
-% - S. Theodaridis, K. Koutroumbas "Pattern Recognition 4th Edition", (2009), Ch.7 Sec. 3.2 Chain codes
-% - H. Freeman "Computer processing of line drawing images",Comput. Surveys 6 (1) (1974) 57-97
+References:
+1. S. Theodaridis, K. Koutroumbas "Pattern Recognition 4th Edition", (2009), Ch.7 Sec. 3.2 Chain codes
+2. H. Freeman "Computer processing of line drawing images",Comput. Surveys 6 (1) (1974) 57-97
